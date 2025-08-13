@@ -1,0 +1,45 @@
+- largura de banda e taxa de transmissão = número de vias em uma estrada, e velocidade dos carros (acho...)
+
+- simplex: a comunicação só vai ou só vem (exemplo: rádio do carro)
+  half-duplex: a comunicação ou só vai, ou só vem, mas não ambos ao mesmo tempo
+  duplex: a comunicação vai e vem, simultaneamente
+
+- nos cabos, a marcação (301, 302...) é inversa, pois dirá quantos metros de cabo ainda restam, "pra dentro da caixa".
+  por exemplo, 301 significaria que restam 301 mtetris de cabo para dentro da caixa, por isso é "inversa", não começa em 0.
+
+  os sinais podem se cancelar. os cabos são entrelaçados para que se cancelem os ruídos e não haja ruído:
+  "Os fios são trançados para evitar os efeitos indesejáveis da interferência elétrica que pode surgir durante a transmissão de sinais devido à proximidade dos fios. 
+Esses cabos não devem ser instalados próximos a equipamentos que possam gerar campos magnéticos como, por exemplo, fios da rede elétrica ou motores." - https://materialpublic.imd.ufrn.br/curso/disciplina/4/19/2/7
+
+- o meio fisico da rede (fios metálicos, cabos de vidro - fibra optica - ou wireless) determinam a largura de rede e taxa de transmissão
+
+- um cabo UTP, o principal meio, pode ir até 100 metros de distância
+  pensando em jogar uma pedra no lago, quanto mais longe, mais fraca é a onda desde o local em que a pedra foi lançada
+  é uma analogia para o sinal do cabo UTP, indo até 100 metros, igualmente para o Bluetooth (que é 10 metros
+
+- existem as redes wireless (sem fio - 0-10m), LAN (local - 10-100m) e WAN (longa distância), neste caso seria a comunicação remota, a partir da localização geográfica
+  dentro de uma LAN existem várias PANs, e dentro de um "campus" existem várias LANs, dentro de uma MAN (metropolitano) ..., dentro de uma WAN, e dentro de uma GAM (global)
+  sempre pensando em referência a um dispositivo de origem e destino
+
+  ou pequeno, médio e grande porte (pelo número de computadores, acredito)
+  lidaremos principalmente com redes de grande porte
+  mas não queremos exagerar, usar uma bazuca para matar uma mosca
+
+- Internet (nuvem) -> Switch -> Roteador -> Dispositivo final
+  de forma bem simples
+
+  A internet é uma WAN com milhões de computadores
+  Redes remotas que ligam redes locais
+  A internet não tem dono, apenas organizações que ajudam a manter a estrutura
+
+  Internet -> Extranet -> Intranet
+
+- Acessamos a internet por internet de dispositivos moveis (5g) ou banda larga,  principalmente, na nossa realidade
+
+- As ondas analógicas são brutas, ruidosas, a própria "medição física"
+  O sinal digital é discreto, 0 ou 1
+  A onda FM tem maior lagura de banda, trabalha em MHz, enquanto a AM é em KHz
+
+- Quanto maior a frequência da onda, maior a largura da banda (mais ondas, mais informação pode ser transmitida em um intervalo de tempo)
+  mas também seria mais difícil de "alinhar" o enviador e receptor, como alinhar 2 agulhas no topo de um prédio
+  As frequências mais baixas (ondas FM, por exemplo, quase certeza) atravessam o ambiente sem esse problema
