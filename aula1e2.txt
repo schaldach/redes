@@ -35,6 +35,8 @@ Esses cabos não devem ser instalados próximos a equipamentos que possam gerar 
   Internet -> Extranet -> Intranet
 
 - Acessamos a internet por internet de dispositivos moveis (5g) ou banda larga,  principalmente, na nossa realidade
+  então, dentro da banda larga existem diferentes tecnologias, e assim por diante
+  o 5g é a mais rápida mas em uma distância mais curta da antena. quanto mais longe, mais devagar a tecnologia, ainda mantendo a conexão
 
 - As ondas analógicas são brutas, ruidosas, a própria "medição física"
   O sinal digital é discreto, 0 ou 1
@@ -43,6 +45,7 @@ Esses cabos não devem ser instalados próximos a equipamentos que possam gerar 
 - Quanto maior a frequência da onda (espectro das ondas eletromagnéticas, e com menor comprimento de onda), maior a largura da banda (mais ondas, mais informação pode ser transmitida em um intervalo de tempo)
   mas também seria mais difícil de "alinhar" o enviador e receptor, como alinhar 2 agulhas no topo de um prédio
   As frequências mais baixas (ondas FM, por exemplo, quase certeza) atravessam o ambiente sem esse problema
+  largura de banda ~ faixa de frequência (Hz)
 
 - algumas Técnicas de Acesso Múltiplo de redes são a FDMA (varias redes, um usuário usa uma delas, e fica ociosa quando ninguem consome), que acaba sendo
   mais devagar, e TDMA, onde cada usuário ocupa toda a largura da rede por vez, apenas por um intervalo de tempo, que acabou sendo mais popular por ter maior
