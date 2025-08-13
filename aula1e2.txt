@@ -40,6 +40,6 @@ Esses cabos não devem ser instalados próximos a equipamentos que possam gerar 
   O sinal digital é discreto, 0 ou 1
   A onda FM tem maior lagura de banda, trabalha em MHz, enquanto a AM é em KHz
 
-- Quanto maior a frequência da onda, maior a largura da banda (mais ondas, mais informação pode ser transmitida em um intervalo de tempo)
+- Quanto maior a frequência da onda (espectro das ondas eletromagnéticas, e com menor comprimento de onda), maior a largura da banda (mais ondas, mais informação pode ser transmitida em um intervalo de tempo)
   mas também seria mais difícil de "alinhar" o enviador e receptor, como alinhar 2 agulhas no topo de um prédio
   As frequências mais baixas (ondas FM, por exemplo, quase certeza) atravessam o ambiente sem esse problema
