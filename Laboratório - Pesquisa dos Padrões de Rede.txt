@@ -1,0 +1,19 @@
+https://itexamanswers.net/3-2-3-4-lab-researching-networking-standards-answers.html
+
+Etapa 1: 
+
+1. https://pt.wikipedia.org/wiki/Jon_Postel
+
+2. https://www.ibm.com/br-pt/think/topics/dns
+
+3. https://sbtnews.sbt.com.br/noticia/tecnologia/252955-conheca-o-sr-internet-vint-cerf-o-cocriador-da-internet
+
+4. https://www.ietf.org/process/rfcs/
+
+5. https://datatracker.ietf.org/doc/html/rfc349
+https://www.rfc-editor.org/rfc/rfc1700.html
+
+6. https://datatracker.ietf.org/doc/html/rfc527
+527
+
+7. 
