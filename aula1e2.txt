@@ -50,3 +50,6 @@ Esses cabos não devem ser instalados próximos a equipamentos que possam gerar 
 - algumas Técnicas de Acesso Múltiplo de redes são a FDMA (varias redes, um usuário usa uma delas, e fica ociosa quando ninguem consome), que acaba sendo
   mais devagar, e TDMA, onde cada usuário ocupa toda a largura da rede por vez, apenas por um intervalo de tempo, que acabou sendo mais popular por ter maior
   transmissão por tempo. (pelo que entendi, é como um round robbin, cada usuário transmite um "pacote" de dados por vez, ACHO que é isso).
+
+- assim como existia uma telefonista que conectava os cabos para uma conexão de distância maior, hoje, ao pegar um telefone por exemplo,
+  o circuito é feito automaticamente
