@@ -16,4 +16,57 @@ https://www.rfc-editor.org/rfc/rfc1700.html
 6. https://datatracker.ietf.org/doc/html/rfc527
 527
 
-7. 
+7. https://www.w3.org/about/
+
+8. https://www.w3.org/TR/?filter-tr-name=&status%5B%5D=standard
+https://en.wikipedia.org/wiki/World_Wide_Web_Consortium#W3C_recommendation_(REC)
+
+- HTML, standard web markup language
+- Web Authentication
+- XML
+- Scalable Vector Graphics, vector image format
+- Resource Description Framework (RDF), family of metadata standards and associated serialization formats
+- CSS
+- WebAssembly, portable binary format and assembly language
+- WebRTC, real-time communication standard
+- EPUB, an ebook file format
+- Encrypted Media Extensions, DRM modules integration standard
+
+9. https://pt.wikipedia.org/wiki/Instituto_de_Engenheiros_Eletricistas_e_Eletr%C3%B4nicos
+https://1000logos.net/ieee-logo/
+Manhattan (3 Park Avenue 10016-5997)
+electricity surrounding magnetism and magnetism surrounding electricity.
+
+10. https://en.wikipedia.org/wiki/IEEE_802.11i-2004
+
+11. https://en.wikipedia.org/wiki/Wi-Fi_Alliance
+realizar testes, certificar a interoperabilidade dos produtos e promover a tecnologia
+
+12. https://www.itu.int/en/history/Pages/ElectedOfficialBio.aspx?off=40
+
+13. 
+14.
+https://pt.wikipedia.org/wiki/Uni%C3%A3o_Internacional_de_Telecomunica%C3%A7%C3%B5es
+https://www.itu.int/en/about/Pages/default.aspx
+
+15. https://en.wikipedia.org/wiki/RS-232
+https://victorvision.com.br/blog/rs232/
+Recommended Standard 232
+
+16. https://www.star-dundee.com/spacewire/getting-started/an-overview-of-the-spacewire-standard/
+
+17. https://www.internetsociety.org/mission/
+https://pt.wikipedia.org/wiki/Internet_Society
+We work together to ensure the Internet thrives and everyone can benefit from it.
+The Internet Society supports and promotes the development of the Internet as a global technical infrastructure, a resource to enrich people’s lives, and a force for good in society.
+Reston, no Estado da Virgínia (EUA)
+
+18. IETF
+19. ISOC (acho que é isso)
+https://icannwiki.org/Internet_Architecture_Board
+https://pt.wikipedia.org/wiki/Internet_Architecture_Board
+https://www.rfc-editor.org/rfc/rfc1601.html
+
+20. https://pt.wikipedia.org/wiki/Organiza%C3%A7%C3%A3o_Internacional_de_Normaliza%C3%A7%C3%A3o
+
+Etapa 2:
