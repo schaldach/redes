@@ -70,3 +70,17 @@ https://www.rfc-editor.org/rfc/rfc1601.html
 20. https://pt.wikipedia.org/wiki/Organiza%C3%A7%C3%A3o_Internacional_de_Normaliza%C3%A7%C3%A3o
 
 Etapa 2:
+1.
+Os padrões da Internet permitem maior comércio ao padronizar a comunicação de qualquer novo dispositivo fabricado
+com a Internet, tornando um novo dispositivo facilmente adequável às normas de acesso à Internet.
+Sem o IEEE, a comunicação se tornaria caótica e muito despadronizada entre diferentes dispositivos.
+
+2.
+Muitos dispositivos seguiriam padrões diferentes de comunicação pela Internet, o 
+que tornaria a comunicação universal que vemos nos sistemas globais hoje muito 
+mais díficil, senão impossível.
+
+3. 
+Podemos aprender que os seguir os padrões do funcionamento da Internet são essenciais
+para garantir a segurança de um dispositivo que se comunica com uma rede WiFi e o
+funcionamento da sua comunicação com outros dispositivos.
